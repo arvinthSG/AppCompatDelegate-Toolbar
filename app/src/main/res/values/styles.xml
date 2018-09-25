@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--set color from colors file-->
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="colorPrimary">@color/primarycolor</item>
+        <item name="colorPrimaryDark">@color/primarycolordark</item>
+        <item name="android:textSize">18dp</item>
+        <!--<item name="textColorPrimary">@color/textcolorprimary</item>-->
+
+    </style>
+
+</resources>
